@@ -1,6 +1,4 @@
-# gameflip-autopost
-
-# Gameflip Listings
+# Gameflip-autopost
 
 Este proyecto es un script Node.js para crear listados automáticamente en Gameflip usando su API.
 
