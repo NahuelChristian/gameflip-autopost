@@ -6,7 +6,7 @@ require('dotenv').config();
 const GFAPI_KEY = process.env.GFAPI_KEY;
 const GFAPI_SECRET = process.env.GFAPI_SECRET;
 
-const GfApi = require('../../index'); // require('gfapi')
+const GfApi = require('gfapi'); // require('gfapi')
 
 // Configuración de los listados
 const listings = [
