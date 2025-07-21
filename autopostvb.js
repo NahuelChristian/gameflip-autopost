@@ -8,7 +8,7 @@ const GFAPI_SECRET = process.env.GFAPI_SECRET;
 
 const GfApi = require('gfapi'); // require('gfapi')
 
-// Configuración de los listados v2
+// Configuración de los listados
 const listings = [
 {
     name: '1000 vbucks 🎁',
