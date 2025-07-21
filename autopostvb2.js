@@ -1013,14 +1013,15 @@ async function main() {
   let index = loadIndex();
 
   while (true) {
-    let index = 0;
-    while (index < listings.length) {
-      await createListing(gfapi, listings[index]);
-      saveIndex(++index);
-      await sleep(120000);
+    if (index >= listings.length) {
+      index = 0;
+      console.log("🔁 Ciclo completo. Esperando 3 minutos para reiniciar...");
+      await sleep(180000);
     }
-    console.log("🔁 Ciclo completo. Esperando 3 minutos para reiniciar...");
-    await sleep(180000);
+
+    await createListing(gfapi, listings[index]);
+    saveIndex(++index);
+    await sleep(120000); // Espera 2 minutos antes del siguiente
   }
 }
 
