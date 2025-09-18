@@ -13,7 +13,7 @@ const listings = [
 {
     name: '1000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 549,
+    price: 499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -31,7 +31,7 @@ const listings = [
   {
     name: '1000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 549,
+    price: 499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -49,7 +49,7 @@ const listings = [
     {
     name: '1000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 549,
+    price: 499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -67,7 +67,7 @@ const listings = [
    {
     name: '1200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 649,
+    price: 599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -85,7 +85,7 @@ const listings = [
   {
     name: '1200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 649,
+    price: 599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -103,7 +103,7 @@ const listings = [
   {
     name: '1200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 649,
+    price: 599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -121,7 +121,7 @@ const listings = [
 {
     name: '1400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 749,
+    price: 699,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -139,7 +139,7 @@ const listings = [
   {
     name: '1400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 749,
+    price: 699,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -157,7 +157,7 @@ const listings = [
     {
     name: '1400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 749,
+    price: 699,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -175,7 +175,7 @@ const listings = [
    {
     name: '1500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 799,
+    price: 749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -193,7 +193,7 @@ const listings = [
   {
     name: '1500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 799,
+    price: 749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -211,7 +211,7 @@ const listings = [
   {
     name: '1500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 799,
+    price: 749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -231,7 +231,7 @@ const listings = [
 {
     name: '1800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 899,
+    price: 849,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -249,7 +249,7 @@ const listings = [
   {
     name: '1800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 899,
+    price: 849,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -267,7 +267,7 @@ const listings = [
     {
     name: '1800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 1800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 899,
+    price: 849,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -285,7 +285,7 @@ const listings = [
    {
     name: '2000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 999,
+    price: 949,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -303,7 +303,7 @@ const listings = [
   {
     name: '2000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 999,
+    price: 949,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -321,7 +321,7 @@ const listings = [
   {
     name: '2000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 999,
+    price: 949,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -339,7 +339,7 @@ const listings = [
 {
     name: '2200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1099,
+    price: 1049,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -357,7 +357,7 @@ const listings = [
   {
     name: '2200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1099,
+    price: 1049,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -375,7 +375,7 @@ const listings = [
     {
     name: '2200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1099,
+    price: 1049,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -393,7 +393,7 @@ const listings = [
    {
     name: '2400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1199,
+    price: 1149,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -411,7 +411,7 @@ const listings = [
   {
     name: '2400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1199,
+    price: 1149,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -429,7 +429,7 @@ const listings = [
   {
     name: '2400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1199,
+    price: 1149,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -447,7 +447,7 @@ const listings = [
 {
     name: '2500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1249,
+    price: 1199,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -465,7 +465,7 @@ const listings = [
     {
     name: '2500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1249,
+    price: 1199,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -483,7 +483,7 @@ const listings = [
     {
     name: '2500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1249,
+    price: 1199,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -501,7 +501,7 @@ const listings = [
 {
     name: '2600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1299,
+    price: 1249,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -519,7 +519,7 @@ const listings = [
   {
     name: '2600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1299,
+    price: 1249,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -537,7 +537,7 @@ const listings = [
     {
     name: '2600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1299,
+    price: 1249,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -555,7 +555,7 @@ const listings = [
    {
     name: '2800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1399,
+    price: 1299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -573,7 +573,7 @@ const listings = [
   {
     name: '2800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1399,
+    price: 1299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -591,7 +591,7 @@ const listings = [
   {
     name: '2800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 2800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1399,
+    price: 1299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -609,7 +609,7 @@ const listings = [
 {
     name: '3000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1499,
+    price: 1399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -627,7 +627,7 @@ const listings = [
   {
     name: '3000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1499,
+    price: 1399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -645,7 +645,7 @@ const listings = [
     {
     name: '3000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1499,
+    price: 1399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -663,7 +663,7 @@ const listings = [
     {
     name: '3200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1599,
+    price: 1499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -681,7 +681,7 @@ const listings = [
         {
     name: '3200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1599,
+    price: 1499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -699,7 +699,7 @@ const listings = [
         {
     name: '3200 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3200 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1599,
+    price: 1499,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -717,7 +717,7 @@ const listings = [
         {
     name: '3400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1699,
+    price: 1549,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -735,7 +735,7 @@ const listings = [
             {
     name: '3400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1699,
+    price: 1549,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -753,7 +753,7 @@ const listings = [
             {
     name: '3400 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3400 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1699,
+    price: 1549,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -771,7 +771,7 @@ const listings = [
    {
     name: '3500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1749,
+    price: 1599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -789,7 +789,7 @@ const listings = [
   {
     name: '3500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1749,
+    price: 1599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -807,7 +807,7 @@ const listings = [
   {
     name: '3500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1749,
+    price: 1599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -825,7 +825,7 @@ const listings = [
       {
     name: '3600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1799,
+    price: 1649,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -843,7 +843,7 @@ const listings = [
           {
     name: '3600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1799,
+    price: 1649,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -861,7 +861,7 @@ const listings = [
           {
     name: '3600 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3600 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1799,
+    price: 1649,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -879,7 +879,7 @@ const listings = [
 {
     name: '3800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1899,
+    price: 1749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -897,7 +897,7 @@ const listings = [
   {
     name: '3800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1899,
+    price: 1749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -915,7 +915,7 @@ const listings = [
     {
     name: '3800 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 3800 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1899,
+    price: 1749,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -933,7 +933,7 @@ const listings = [
             {
     name: '4000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 4000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1999,
+    price: 1799,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -951,7 +951,7 @@ const listings = [
                 {
     name: '4000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 4000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1999,
+    price: 1799,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -969,7 +969,7 @@ const listings = [
                 {
     name: '4000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 4000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 1999,
+    price: 1799,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -987,7 +987,7 @@ const listings = [
    {
     name: '5000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 5000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 2499,
+    price: 2299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1005,7 +1005,7 @@ const listings = [
   {
     name: '5000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 5000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 2499,
+    price: 2299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1023,7 +1023,7 @@ const listings = [
   {
     name: '5000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 5000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 2499,
+    price: 2299,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1041,7 +1041,7 @@ const listings = [
 {
     name: '7500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 7500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 3799,
+    price: 3399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1059,7 +1059,7 @@ const listings = [
   {
     name: '7500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 7500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 3799,
+    price: 3399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1077,7 +1077,7 @@ const listings = [
     {
     name: '7500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 7500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 3799,
+    price: 3399,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1095,7 +1095,7 @@ const listings = [
    {
     name: '10000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 10000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 4999,
+    price: 4599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1113,7 +1113,7 @@ const listings = [
   {
     name: '10000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 10000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 4999,
+    price: 4599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1131,7 +1131,7 @@ const listings = [
   {
     name: '10000 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 10000 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 4999,
+    price: 4599,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1149,7 +1149,7 @@ const listings = [
 {
     name: '13500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 13500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 6249,
+    price: 5999,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1167,7 +1167,7 @@ const listings = [
   {
     name: '13500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 13500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 6249,
+    price: 5999,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1185,7 +1185,7 @@ const listings = [
     {
     name: '13500 vbucks 🎁',
     description: "!!!!! READ !!!!!\n\nNOTE: ( IT'S NOT A CODE ).\n\nNOTE 2: This is a post for 13500 V-Bucks through Gift Item Shop Method.\n\nNOTE 3: (VBUCKS CANNOT BE GIFTED).\n\nNOTE 4: (ITEM IN THE DAILY SHOP).\n\nAfter purchase, we need to be friends for at least 48 hours (2 days) in the game, and then I'll be able to send you the skins/emotes/cars/bundles that you ask me until you fulfill the amount you purchased. (Through gifting in the game)\n\nAdd me in Fortnite and send me a message about which ITEM you want.\n\nFeel free to ask any questions, and I'll answer them ASAP.\n\n✔ +2.000 satisfied customers\n\n✔ Fast delivery\n\n✔ 100% Good rating",
-    price: 6249,
+    price: 5999,
     status: GfApi.LISTING_STATUS.ONSALE,
     shipping_within_days: GfApi.SHIPPING_WITHIN_DAYS.THREE,
     expire_in_days: GfApi.EXPIRE_IN_DAYS.SEVEN,
@@ -1279,11 +1279,11 @@ async function main() {
   while (true) {
     for (const query of listings) {
       await createListing(gfapi, query); // Publicar
-      await sleep(120000); // Esperar 2 minutos antes del siguiente
+      await sleep(180000); // Esperar 2 minutos antes del siguiente
     }
 
     console.log("🌀 Ciclo completo finalizado. Reiniciando publicaciones en 3 minutos...");
-    await sleep(180000); // Esperar 1 minuto antes de empezar de nuevo
+    await sleep(300000); // Esperar 1 minuto antes de empezar de nuevo
   }
 }
 
